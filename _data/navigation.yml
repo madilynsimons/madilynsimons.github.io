@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: Locations
+  url: "/location/"
+  side: left
+
 - title: Getting Started
   url: "/getting-started/"
   side: left
