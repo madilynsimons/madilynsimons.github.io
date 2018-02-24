@@ -4,13 +4,9 @@ description: > # this means to ignore newlines
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-<<<<<<< HEAD
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com"
 theme: https://phlow.github.io/feeling-responsive-v2
-=======
-theme: jekyll-theme-architect
->>>>>>> 7cb85b46a2b7c95efc5b114a2f99128ee10ea027
 
 # Build settings
 markdown: kramdown #"It's like markdown, but it has an exam tomorrow"
