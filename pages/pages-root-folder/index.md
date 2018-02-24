@@ -5,8 +5,6 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Call Ahead"
   text: '<b>Telephone:</b><br/> 856-596-8990<br/> 856-596-8895<br/>'

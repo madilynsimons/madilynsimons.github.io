@@ -4,8 +4,6 @@ show_meta: false
 title: "Menu"
 subheadline: "Szechuan-Hunan and Cantonese Cuisine"
 teaser: "We use only 100% cholesterol-free vegetable oil."
-header:
-   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/menu/"
 
 ---
