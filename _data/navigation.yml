@@ -1,11 +1,11 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
 - title: Locations
   url: "/location/"
   side: left
-  
+
 - title: See the Menu
   url: "/menu/"
   side: left
