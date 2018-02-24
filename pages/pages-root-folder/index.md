@@ -9,7 +9,6 @@ permalink: /index.html
 widget1:
   title: "Call Ahead"
   text: '<b>Telephone:</b><br/> 856-596-8990<br/> 856-596-8895<br/><b>Fax:</b><br/> 856-596-8944'
-  sidebar: right
 widget2:
   title: "Open 7 Days a Week"
   text: '<b>Monday - Thursday:</b><br/> 11:00 am - 9:30 pm<br/><b>Friday & Saturday:</b><br> 11:00 am - 10:30 pm<br/>
@@ -24,3 +23,6 @@ widget3:
 #
 homepage: true
 ---
+![Chicken]({{site.url}}/images/chicken1.jpg)
+![Noodles]({{site.url}}/images/noodles1.jpg)
+![Beef]({{site.url}}/images/beef1.jpg)
