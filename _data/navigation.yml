@@ -5,9 +5,9 @@
 - title: Locations
   url: "/location/"
   side: left
-
-- title: Getting Started
-  url: "/getting-started/"
+  
+- title: See the Menu
+  url: "/menu/"
   side: left
 
 - title: "Templates"
