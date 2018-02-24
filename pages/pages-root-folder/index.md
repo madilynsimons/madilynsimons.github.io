@@ -7,11 +7,12 @@
 layout: frontpage
 widget1:
   title: "Call Ahead"
-  text: '<b>Telephone:</b><br/> 856-596-8990<br/> 856-596-8895<br/>'
+  text: '<b>Telephone:</b><br/> 856-596-8990<br/> 856-596-8895<br/><b>Fax:</b><br/> 856-596-8944'
+  sidebar: right
 widget2:
   title: "Open 7 Days a Week"
-  text: '<b>Monday - Thursday:</b> 11:00 am - 9:30 pm<br/><b>Friday & Saturday:</b> 11:00 am - 10:30 pm<br/>
-  <b>Sunday:</b> 12:00 pm - 9:00 pm'
+  text: '<b>Monday - Thursday:</b><br/> 11:00 am - 9:30 pm<br/><b>Friday & Saturday:</b><br> 11:00 am - 10:30 pm<br/>
+  <b>Sunday:</b><br> 12:00 pm - 9:00 pm'
 widget3:
   title: "By the Shops at Elmwood"
   text: '795 Rt. 70 Suite B<br/>Marlton, NJ 08053'
