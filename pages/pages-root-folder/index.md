@@ -26,6 +26,3 @@ widget3:
 #
 homepage: true
 ---
-![Chicken]({{site.url}}/images/chicken1.jpg){:width="25%" height="25%"}
-![Noodles]({{site.url}}/images/noodles1.jpg){:width="25%" height="25%"}
-![Beef]({{site.url}}/images/beef1.jpg){:width="25%" height="25%"}
