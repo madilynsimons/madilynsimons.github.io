@@ -10,7 +10,7 @@ permalink: "/menu/"
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/images/kingwongmenu.pdf">See Enlarged Menu ›</a>
 
-![Menu Front]({{site.url}}/images/kingwongmenu_front.png){:width="2000px", height="1294px"}
+![Menu Front]({{site.url}}/images/kingwongmenu_front.png)   
 ![Menu Back]({{site.url}}/images/kingwongmenu_back.png)
 {:width=2000, height=1294}
 

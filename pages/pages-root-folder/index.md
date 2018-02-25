@@ -18,7 +18,7 @@ widget2:
 widget3:
   title: "By the Shops at Elmwood"
   text: '795 Rt. 70 Suite B<br/>Marlton, NJ 08053'
-  image: 'noodles1.jpg'
+  image: 'eggrole1.jpg'
 
 #
 # This is a nasty hack to make the navigation highlight
