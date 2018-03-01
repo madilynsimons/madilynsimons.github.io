@@ -1,9 +1,9 @@
 Poultry (w. Rice)
-P1 Moo Moo Gai Pan 6.75(sm) 10.95(lg)
-P2 Chicken w. Black Bean Sauce 6.75(sm) 10.95(lg)
-P3 *Chicken Curry 7.50(sm) 12.95(lg)
-P4 Chicken with Broccoli 6.75(sm) 10.95(lg)
-P5 Chicken with Snow Peas 7.50(sm) 12.95(lg)
+P1 Moo Moo Gai Pan 6.75(sm) 10.95(lg) +++
+P2 Chicken w. Black Bean Sauce 6.75(sm) 10.95(lg) +++
+P3 *Chicken Curry 7.50(sm) 12.95(lg) +++
+P4 Chicken with Broccoli 6.75(sm) 10.95(lg) +++
+P5 Chicken with Snow Peas 7.50(sm) 12.95(lg) +++
 P6 Boneless Chicken with Vegtables 10.95(lg)
 P7 Lemon chicken 10.98(lg)
 P8 Chicken with String Beans 10.95(lg)
@@ -65,7 +65,7 @@ CP26 Shrimp with Broccoli 8.95
 CP27 *Curry Chicken with Onion 8.95
 CP28 *Curry Chicken with Onion 9.25
 
-Luncheon Specials 
+Luncheon Specials
 Monday-Saturday 11:30am-3:00 pm
 Served with White Rice, Brown Rice, or Pork Fried Rice
 One Free 12oz. Can soda with each luncheon purchace)
@@ -221,7 +221,7 @@ SS1 Sweet and Sour Chicken 5.50(sm) 8.50(lg)
 SS2 Sweet and Sour Pork 5.50(sm) 8.50(lg)
 SS3 Sweet and Sour Shrimp 6.95(sm) 11.95(lg)
 
-Chow Mein 
+Chow Mein
 (w Rice/Noodle)
 CM1 Chicken Chow Mein 5.50(sm) 8.95(lg)
 CM2 Roast Pork Chow Mein 5.50(sm) 8.95(lg)

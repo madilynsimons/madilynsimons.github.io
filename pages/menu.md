@@ -26,6 +26,8 @@ header:
 {% include sweetsour.html %}
 {% include chowmein.html %}
 {% include poultry.html %}
+{% include seafood.html %}
+
 
 
 ![Menu Back]({{site.url}}/images/kingwongmenu_back.png)
