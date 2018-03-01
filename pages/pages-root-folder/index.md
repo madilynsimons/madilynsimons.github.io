@@ -30,7 +30,7 @@ header:
 homepage: true
 ---
 <div>
-  <h2>Welcome!</h2>
-  <p> At King Wong, our goal is to introduce a new style of Chinese food. We make sure that your meal will not only taste great, but will also be good for your health. We use only the finest ingredients, and the freshest seafood and vegetables that each season has to offer.So, try to be a little adventurous. If you would like us to prepare something special, please ask, we will be happy to oblige. Enjoy your dining experience with us.</p>
+  <h1>Welcome!</h1>
+  <p> At King Wong, our goal is to introduce a new style of Chinese food. We make sure that your meal will not only taste great, but will also be good for your health. We use only the finest ingredients, and the freshest seafood and vegetables that each season has to offer. So, try to be a little adventurous. If you would like us to prepare something special, please ask, we will be happy to oblige. Enjoy your dining experience with us.</p>
   <h5>Thank you!</h5>
 </div>
