@@ -21,6 +21,10 @@ header:
 
 {% include appetizers.html %}
 {% include soup.html %}
+{% include friedrice.html %}
+{% include mooshu.html %}
+{% include sweetsour.html %}
+{% include chowmein.html %}
 {% include poultry.html %}
 
 
