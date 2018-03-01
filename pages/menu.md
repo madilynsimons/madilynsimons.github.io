@@ -35,12 +35,3 @@ header:
 
 
  [1]: {{ site.url }}{{ site.baseurl }}/images/kingwongmenu.pdf
-
- .container > div {
-     display: inline-block;
-     display: -moz-inline-box;
-     display: inline;
-     zoom: 1;
-     width: 33%;
-     text-align: center;
- }
