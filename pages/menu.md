@@ -8,11 +8,8 @@ permalink: "/menu/"
 header:
   image_fullwidth: "header_food.jpg"
   caption: Enjoy!
-
-
+sidebar: right
 ---
-
-
 
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/images/kingwongmenu.pdf">See Enlarged Menu ›</a>
