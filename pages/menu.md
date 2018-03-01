@@ -5,9 +5,13 @@ title: "Menu"
 subheadline: "Szechuan-Hunan and Cantonese Cuisine"
 teaser: "We use only 100% cholesterol-free vegetable oil."
 permalink: "/menu/"
+header:
+  image_fullwidth: "header_food.jpg"
+  caption: Enjoy!
 
 
 ---
+
 
 
 
@@ -15,16 +19,27 @@ permalink: "/menu/"
 
 ![Menu Front]({{site.url}}/images/kingwongmenu_front.png)  
 
-<div class="panel radius" style="width=50px border=0px">
-    <table class="panel radius" style="width:50% border=0px">
-      <tr>
-        <th>Poultry</th>
-        <th>Seafood</th>
+<div class="panel radius">
+    <table class="panel radius" style="width:50% float:left border=0px">
+      <tr style="border:0px">
+        <th style="border:0px"><h5>Poultry</h5></th>
+        <th></th>
+        <th><h5>Seafood</h5></th>
+        <th></th>
       </tr>
       <tr>
         <td>P1. Moo Goo Gai Pan</td>
         <td>$7.25</td>
+        <td>S1. Seafood Dish</td>
+        <td>$7.89</td>
       </tr>
+    </table>
+
+    <table class="panel radius" style="width:50% float: left">
+      <tr>
+        <th>Poultry</th>
+      </tr>
+
     </table>
 </div>
 
