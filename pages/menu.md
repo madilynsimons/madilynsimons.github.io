@@ -31,6 +31,7 @@ header:
 {% include combinationplates.html %}
 {% include pork.html %}
 {% include beef.html %}
+{% include vegetables.html %}
 
 
 
