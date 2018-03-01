@@ -23,6 +23,8 @@ header:
 {% include soup.html %}
 {% include friedrice.html %}
 {% include mooshu.html %}
+{% include sweetsour.html %}
+{% include chowmein.html %}
 
 
 ![Menu Back]({{site.url}}/images/kingwongmenu_back.png)
