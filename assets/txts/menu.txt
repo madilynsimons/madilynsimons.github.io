@@ -1,0 +1,239 @@
+Poultry (w. Rice)
+P1 Moo Moo Gai Pan 6.75(sm) 10.95(lg)
+P2 Chicken w. Black Bean Sauce 6.75(sm) 10.95(lg)
+P3 *Chicken Curry 7.50(sm) 12.95(lg)
+P4 Chicken with Broccoli 6.75(sm) 10.95(lg)
+P5 Chicken with Snow Peas 7.50(sm) 12.95(lg)
+P6 Boneless Chicken with Vegtables 10.95(lg)
+P7 Lemon chicken 10.98(lg)
+P8 Chicken with String Beans 10.95(lg)
+P9 *Hunan Chicken 11.50(lg)
+P10 Chicken with Mixed Vegetabes 10.95(lg)
+P11 *Chicken with Garlic Sauce 11.50(lg)
+P12 Chicken with Cashew Nuts 11.50(lg)
+P13 *Kung Po Chicken 11.50(lg)
+P14 *Orange Flavor Chicken 11.95(lg)
+P15 *Szechuan Chicken 11.50(lg)
+P16 *Chicken w. Eggplant in Garlic Sauce 12.95(lg)
+P17 Chicken w. Asparagus 12.95(lg)
+
+Seafood (w. Rice)
+SF1 Jumbo Shrimp w. Mushroom 6.95(sm) 11.95(lg)
+SF2 Jumbo Shrimp w. Lobster Sauce 6.95(sm) 11.95(lg)
+SF3 Jumbo Shrimp w. Black Bean Sauce 6.95(sm) 11.95(lg)
+SF4 Jumbo Shrimp w. Broccoli 6.95(sm) 11.95(lg)
+SF5 Jumbo Shrimp w. Mixed Veg 6.95(sm) 11.95(lg)
+SF6 Jumbo Shrimp w. Snow Peas 7.50(sm) 12.95(lg)
+SF7 *Curry Shrimp w Onion 7.95(sm) 13.50(lg)
+SF8 Jumbo Shrimp w. Peppers & Tomatoes 11.95(lg)
+SF9 Baby Shrimp w Cashew Nuts 11.95(lg)
+SF10 *Kung Po Shrimp 11.95(lg)
+SF11 *Jumbo Shrimp w Garlic Sauce 11.95(lg)
+SF12 Scallop w. Broccoli 11.95(lg)
+SF13 *Jumbo Shrimp, Szechuan Style 11.95(lg)
+SF14 Scallop w. Mixed Vegetable 12.95(lg)
+SF15 Shrimp String Bean 12.95(lg)
+SF16 Shrimp Asparagus 12.95(lg)
+
+Combination Plates (Served with an Egg Roll & Pork Fried Rice)
+CP1 Sweet & Sour Pork or Chicken 8.75
+CP2 Moo Moo Gai Pan 8.75
+CP3 Pepper Steak with Onion 8.75
+CP4 *Szechuan Beef 8.75
+CP5 *Chicken with Garlic Sauce
+CP6 Barbecued Spare Ribs or Boneless 9.50
+CP7 Jumbo Shrimp w. Lobster Ssauce 8.95
+CP8 Roast Porn w. Mixed Vegetable 8.75
+CP9 Beef or Chicken w Broccoli 8.75
+CP10 Chicken w Cashew Nuts 8.75
+CP11 Chow Mein (Chicken or Pork) 8.75
+CP12 Roast Pork or Chicken Lo Mein 8.75
+CP13 Egg Foo Young (Pork or Chicken) 9.50
+CP14 *General Tso’s Chicken 8.75
+CP15 Sesame Chicken 8.75
+CP16 Beef with Mixed Vegetable 8.75
+CP17 Chicken with Mixed Vegetables 8.75
+CP18 Shrimp Chow Mein 8.75
+CP19 *Szechuan Chicken 8.75
+CP20 Shrimp Lo Mein 8.75
+CP21 *Hunan Chicken 8.75
+CP22 *Kung Po Chicken 8.75
+CP23 *Beef with Garlic Sauce 8.75
+CP24 *Shrimp with Garlic Sauce 8.95
+CP25 *Hunan Shrimp 8.95
+CP26 Shrimp with Broccoli 8.95
+CP27 *Curry Chicken with Onion 8.95
+CP28 *Curry Chicken with Onion 9.25
+
+Luncheon Specials 
+Monday-Saturday 11:30am-3:00 pm
+Served with White Rice, Brown Rice, or Pork Fried Rice
+One Free 12oz. Can soda with each luncheon purchace)
+L1 Beef w. Mixed Vegetables 6.50
+L2 Chicken w Broccoli 6.25
+L3 Beef w Broccoli 6.50
+L4 Chicken Chow Mein 6.25
+L5 Shrimp Chow Mein 6.50
+L6 Moo Moo Gai Pan (Chicken) 6.50
+L7 Pepper Steak w Onion 6.50
+L8 Shrimp Egg Foo Young 6.95
+L9 Pork Egg Foo Young 6.50
+L10 Beef Lo Mein 6.50
+L11 Roast Pork Lo Mein 6.25
+L12 Shrimp w. Lobster Sauce 6.95
+L13 Sweet & Sour Chicken 6.25
+L14 *Broccoli with Garlic Sauce 6.25
+L15 *Curry Chicken w. Onion 6.95
+L16 *General Tso’s Chicken 6.50
+L17. Sesame Chicken 6.50
+L18 *Beef w. Garlic Sauce 6.50
+L19 *Shrimp w. Garlic Sauce 6.95
+L20 *Chicken w. Garlic Sauce 6.50
+L21 *Curry Shrimp w Onion 6.95
+L22 *Hunan Shrimp 6.95
+L23 *Hunan Chicken 6.50
+L24 Sauteed Sring Beans 6.25
+L25 *Kung Po Chicken 6.50
+L26 Mixed Vegs. W Shrimp 6.95
+L27 Mixed Vegs. w. Chicken 6.50
+L28 *Szechuan Chicken 6.50
+L29 *Szechuan Beef 6.50
+L30 Chicken with Cashew Nuts 6.50
+L31 Boneless Rib 6.95
+
+Lo Mein
+LM1 Roast Pork Lo Mein 5.50(sm) 8.95(lg)
+LM2 Chicken Lo Mein 5.50(sm) 8.95(lg)
+LM3 Vegetable Lo Mein 5.50(sm) 8.95(lg)
+LM4 Beef Lo Mein 5.59(sm) 9.95(lg)
+LM5 Shrimp Lo Mein 5.95(sm) 9.95(lg)
+LM6 House Special Lo Mein 6.25(s) 10.25(lg)
+
+For Weight Watchers
+(Brown Rice, Brown Sauce on the Side)
+WW1 Steamed Shrimp with Mixed Veg 12.50
+WW2 Steamed Buddhist Delight (all veg) 9.50
+WW3 Steamed Chicken with Mixed Veg 11.50
+WW4 Streamed White Meat Chicken w. Broccoli 11.50
+WW5 Steamed White Meat Chicken w String Beans 11.50
+WW6 Steamed Jumbo Shrimp with Broccoli 12.50
+WW7 Steamed Jumbo Shrimp with String Beans 12.50
+WW8 Steamed Chicken with Snow Peas 12.50
+WW9 Steamed Chicken and Shrimp with Mixed Veg 12.95
+WW10 Steamed Chicken & Shrimp with Broccoli 12.95
+
+Vegetables
+(w Rice)
+V1 *Broccoli with Garlic Sauce 9.50
+V2 Sauteed String Beans 9.95
+V3 *Eggplant w Garlic Sauce 10.50
+V4 *Bean Curd, Szechaun Style 10.50
+V5 Buddhist Delights (all veg) w Fried Tofu 10.50
+V6 Sauteed Snow Peas 10.50
+V7 Shiitake Mushrooms w Mixed Veg 11.95
+V8 Asparagus in Brown Sauce 11.95
+V9 *General Tso’s Chicken (Vegetarian Style) 11.95
+V10 *General Tso’s Bean Curd 9.95
+V11 Sesame Bean Curd 9.50
+
+Pork
+(w Rice)
+PK1 Roast Pork w Oyster Sauce 6.75(sm) 10.95(lg)
+PK2 Roast Pork w Mixed Vegetable 6.75(sm) 10.95(lg)
+PK3 Roast Pork w Mushrooms 6.75(sm) 10.95(lg)
+PK4 Roast Pork w Broccoli 6.75(sm) 10.95(lg)
+PK5 Roast Pork w String Beans 6.75(sm) 10.95(lg)
+PK6 *Roast Pork with Garlic Sauce 11.95(lg)
+PK7 *Mongolian Pork 12.95(lg)
+PK8 Roast Pork w Black Bean Sauce 6.75(sm) 10.95(lg)
+PK9 Roast Pork w. Snow Peas 7.50(sm) 12.95(lg)
+PK10 Roast Pork w Asparagus 12.95(lg)
+
+Beef
+(w Rice)
+B1 Beef with Mixed Veg 6.95(sm) 11.95(lg)
+B2 Beef with Broccoli 6.95(sm) 11.95(lg)
+B3 Pepper Steak with Onion 6.95(sm) 11.95(lg)
+B4 Beef w Oyster Sauce 6.95(sm) 11.95(lg)
+B5 Pepper Steak with Tomatoes 6.95(sm) 11.95(lg)
+B6 Beef with Mushrooms 6.95(sm) 11.95(lg)
+B7 Beef with String Beans 11.95(lg)
+B8 *Mongolian Beef 12.95(lg)
+B9 Sesame Beef 13.95(lg)
+B10 *Beef with Garlic Sauce 12.50(lg)
+B11 *Kung Pao Beef 11.95(lg)
+B12 *Hunan Beef 11.95(lg)
+B13 Beef w Snow Peas 7.95(sm) 12.95(lg)
+B14 *Szechuan Beef 12.50(lg)
+B15 *Beef with Eggplant in Garlic Sauce 12.50(lg)
+B16 Beef with Asparagus 13.95
+
+Appetizers
+A1 Egg Roll 1.50
+A2 Seafood Spring Roll 1.85
+A3 Honey Glazed Roasted Pork 7.95(sm) 13.95(lg)
+A4 BBQ Spare Ribs 7.95(sm) 13.95(lg)
+A5 Fried Wonton (10) 5.25
+A6 Crab Rangoon (6) 5.25
+A7 Teriyaki Beef on Stick (4) 7.95
+A8 Dumpling (6) Steamed or Fried 5.25(steamed) 6.25(fried)
+A9 Cold Noodles with Sesame Sauce 4.95
+A10 Vegetable Dumpling (6) Steamed or Fried 5.25
+A11 Fried Shrimp with Cocktail Sauce 5.50
+A12 Teriyaki Chicken on Stick (4) 7.95
+A13 Pu Pu Platter (for two) 14.95
+A14 Shrimp Toast 5.95
+A15 Fried Chicken Wing 5.95
+A16 *Salt Pepper Baked Wing 10.50
+A17 Wings with French Fries or Fried Rice 8.50
+A18 Vegetable Spring Roll 1.50
+
+Soup
+S1 Egg Flower Soup 2.25(sm) 4.25(lg)
+S2 Egg Flower Soup with Seaweed 2.50(sm) 4.95(lg)
+S3 Wonton Soup 2.50(sm) 4.95(lg)
+S4 Chicken Noodles or Rice Soup 2.25(sm) 4.25(lg)
+S5 Vegetable Soup with Bean Curd 5.95(lg)
+S6 *Hot and Sour Soup 2.50(sm) 4.95(lg)
+S7 Seafood Soup with Bean Curd 8.95(lg)
+S8 House Special Wonton Soup 8.95(lg)
+S9 Egg Flower w Wonton Soup 2.50(sm) 4.95(lg)
+
+Fried Rice
+FR1 Vegetable Fried Rice 4.95(sm) 8.50(lg)
+FR2 Roasted Pork Fried Rice 4.95(sm) 8.50(lg)
+FR3 Chicken Fried Rice 4.95(sm) 8.50(lg)
+FR4 Beef Fried Rice 5.25(sm) 8.95(lg)
+FR5 Shrimp Fried Rice 5.25(sm) 8.95(lg)
+FR6 House Special Fried Rice 5.75(sm) 9.95(lg)
+FR7 Lobster Fried Rice 8.50(sm) 14.95(lg)
+
+Moo Shu
+(Served with 4 Pancakes)
+MS1 Moo Shu Chicken 9.95
+MS2 Moo Shu Pork 9.95
+MS3 Moo Shu Beef 9.95
+MS4 Moo Shu Shrimp 9.95
+MS5 Moo Shu Vegetable 9.95
+
+Sweet and Sour
+SS1 Sweet and Sour Chicken 5.50(sm) 8.50(lg)
+SS2 Sweet and Sour Pork 5.50(sm) 8.50(lg)
+SS3 Sweet and Sour Shrimp 6.95(sm) 11.95(lg)
+
+Chow Mein 
+(w Rice/Noodle)
+CM1 Chicken Chow Mein 5.50(sm) 8.95(lg)
+CM2 Roast Pork Chow Mein 5.50(sm) 8.95(lg)
+CM3 Beef Chow Mein 5.95(sm) 9.75(lg)
+CM4 Vegetable Chow Mein 5.50(sm) 8.95(lg)
+CM5 Shrimp Chow Mein 5.95(sm) 9.75(lg)
+CM6 House Special Chow Mein 6.25(sm) 10.25(lg)
+
+Egg Foo Young
+(w Rice)
+FY1 Roast Pork Egg Foo Young or Vegetable 8.50
+FY2 Chicken Egg Foo Young 8.50
+FY3 Beef Egg Foo Young 8.75
+FY4 Shrimp Egg Foo Young 8.75
+FY5 House Special Egg Foo Young 9.25
