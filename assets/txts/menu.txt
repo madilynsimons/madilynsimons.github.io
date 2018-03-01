@@ -1,4 +1,4 @@
-Poultry (w. Rice)
+Poultry (w. Rice) -- Done
 P1 Moo Moo Gai Pan 6.75(sm) 10.95(lg) +++
 P2 Chicken w. Black Bean Sauce 6.75(sm) 10.95(lg) +++
 P3 *Chicken Curry 7.50(sm) 12.95(lg) +++
@@ -42,7 +42,7 @@ CP3 Pepper Steak with Onion 8.75
 CP4 *Szechuan Beef 8.75
 CP5 *Chicken with Garlic Sauce
 CP6 Barbecued Spare Ribs or Boneless 9.50
-CP7 Jumbo Shrimp w. Lobster Ssauce 8.95
+CP7 Jumbo Shrimp w. Lobster Sauce 8.95
 CP8 Roast Porn w. Mixed Vegetable 8.75
 CP9 Beef or Chicken w Broccoli 8.75
 CP10 Chicken w Cashew Nuts 8.75
