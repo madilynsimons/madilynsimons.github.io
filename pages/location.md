@@ -1,7 +1,7 @@
 ---
 permalink: "/location/"
 layout: page
-title: "Locations"
+title: ""
 sidebar: right
 header:
   image_fullwidth: "header_food.jpg"
