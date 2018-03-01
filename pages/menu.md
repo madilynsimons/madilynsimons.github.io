@@ -28,11 +28,13 @@ header:
 {% include poultry.html %}
 {% include seafood.html %}
 {% include eggfooyoung.html %}
+{% include lomein.html %}
 {% include combinationplates.html %}
 {% include pork.html %}
 {% include beef.html %}
 {% include vegetables.html %}
 {% include weightwatchers.html %}
+
 
 
 
