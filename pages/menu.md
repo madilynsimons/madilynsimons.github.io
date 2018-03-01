@@ -20,6 +20,7 @@ header:
 ![Menu Front]({{site.url}}/images/kingwongmenu_front.png)  
 
 {% include appetizers.html %}
+{% include soup.html %}
 
 
 ![Menu Back]({{site.url}}/images/kingwongmenu_back.png)
