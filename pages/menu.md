@@ -29,6 +29,7 @@ header:
 {% include seafood.html %}
 {% include eggfooyoung.html %}
 {% include combinationplates.html %}
+{% include pork.html %}
 {% include beef.html %}
 
 
