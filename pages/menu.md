@@ -26,6 +26,7 @@ header:
 {% include sweetsour.html %}
 {% include chowmein.html %}
 {% include poultry.html %}
+{% include seafood.html %}
 {% include eggfooyoung.html %}
 
 <div class="panel radius" style="width=50px border=0px">
