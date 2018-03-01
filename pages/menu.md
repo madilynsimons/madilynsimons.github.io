@@ -5,9 +5,13 @@ title: "Menu"
 subheadline: "Szechuan-Hunan and Cantonese Cuisine"
 teaser: "We use only 100% cholesterol-free vegetable oil."
 permalink: "/menu/"
+header:
+  image_fullwidth: "header_food.jpg"
+  caption: Enjoy!
 
 
 ---
+
 
 
 
@@ -128,6 +132,13 @@ permalink: "/menu/"
         <td></td>
         <td>$1.50</td>
       </tr>
+    </table>
+
+    <table class="panel radius" style="width:50% float: left">
+      <tr>
+        <th>Poultry</th>
+      </tr>
+
     </table>
 </div>
 
