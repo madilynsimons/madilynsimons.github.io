@@ -21,8 +21,7 @@ header:
 
 {% include appetizers.html %}
 {% include soup.html %}
-{% include friedrice.html %}
-{% include mooshu.html %}
+{% include poultry.html %}
 
 
 ![Menu Back]({{site.url}}/images/kingwongmenu_back.png)
