@@ -20,9 +20,12 @@ header:
 ![Menu Front]({{site.url}}/images/kingwongmenu_front.png)  
 
 <div class="panel radius" style="width=50px border=0px">
-    <table class="panel radius" style="width:50% border=0px">
+    <table class="panel radius">
       <tr>
         <th>Appetizers</th>
+        <th></th>
+        <th></th>
+        <th></th>
       </tr>
       <tr>
         <td>A1</td>
