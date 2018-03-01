@@ -28,6 +28,14 @@ header:
 {% include poultry.html %}
 {% include eggfooyoung.html %}
 
+<div class="panel radius" style="width=50px border=0px">
+    <table class="panel radius" style="width:50% border=0px">
+    <tr>
+      <th>&#42;Hot and Spicy</th>
+    </tr>
+    </table>
+</div>
+
 
 ![Menu Back]({{site.url}}/images/kingwongmenu_back.png)
 {:width=2000, height=1294}
