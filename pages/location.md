@@ -15,6 +15,6 @@ header:
 
         08053<br>
     </p>
-    <img src="http://kingwongmarlton.com/images/PandaBoye.png">
+    <img src="http://kingwongmarlton.com/images/PandaBoyeSmall.png">
 </div>
 {% include _google_maps.html %}
